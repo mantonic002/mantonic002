@@ -4,8 +4,6 @@
 - #### Languages: Serbian(Native), English(advanced)
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=c,java,cs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,go,docker&theme=dark)](https://skillicons.dev)
 
-## Learning
-[![Learning](https://skillicons.dev/icons?i=angular,spring,go,docker&theme=dark)](https://skillicons.dev)
 
